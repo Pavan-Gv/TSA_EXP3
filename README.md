@@ -1,4 +1,4 @@
-# Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
+# Ex.No: 03   COMPUTE THE AUTO Correlation FUNCTION(ACF)
 Date: 
 
 ### AIM:
