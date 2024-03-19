@@ -2,8 +2,7 @@
 Date: 
 
 ### AIM:
-To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
-type to fit the data.
+To Compute the AutoCorrelation Function (ACF) of data for first 35 lags to determine the model type to fit the data.
 ### ALGORITHM:
 1. Import the necessary packages
 2. Find the mean, variance and then implement normalization for the data.
